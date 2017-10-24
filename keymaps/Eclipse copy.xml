@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Macro.OptimizeImportsReformatRearrangeSave">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+</keymap>
