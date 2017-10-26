@@ -14,7 +14,6 @@
       <mapping pattern="KeyDeatils" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
