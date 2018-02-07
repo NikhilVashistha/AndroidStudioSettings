@@ -67,6 +67,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/Blankj/AndroidUtilCode.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://nikhil200816@bitbucket.org/qtoss/360trust.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
