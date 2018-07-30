@@ -82,6 +82,10 @@
           <option name="url" value="https://nikhil200816@bitbucket.org/nikhil200816/higlance.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="rakesh@atlogys.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\D Drive\My Softwares\New Soft\StudioProjects" />
