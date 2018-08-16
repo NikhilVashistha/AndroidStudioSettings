@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.higlance.utils.CommonUtils.showSnackbar(activity,message)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
